@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "TwitterCounter",
+        "repositoryURL": "https://github.com/youssefes/TwitterCounter",
+        "state": {
+          "branch": "main",
+          "revision": "894fef1a560096578876015fd6dd82dbd8ba8fb3",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
